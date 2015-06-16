@@ -5,5 +5,5 @@
   "license": "GPL v2",
   "description": "Docker iojs image",
   "long_description": "Docker iojs image",
-  "version": "1.5.1"
+  "version": "1.0.1"
 }
