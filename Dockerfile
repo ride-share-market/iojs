@@ -2,7 +2,7 @@ FROM ubuntu:14.04
 MAINTAINER Ride Share Market "systemsadmin@ridesharemarket.com"
 
 # APT cache
-ENV APT_REFRESHED_AT 2015-06-09.1
+ENV APT_REFRESHED_AT 2015-06-17.1
 RUN apt-get -yqq update
 
 # Install io.js, gpg keys listed at https://github.com/iojs/io.js
