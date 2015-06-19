@@ -2,11 +2,8 @@
 
 This docker image is used as the base image for these other ridesharemarket.com application containers:
 
-TODO: Link to github repos:
-
-- rsm-data
-- rsm-api
-- rsm-app
+- `git clone git@github.com:ride-share-market/iojs.git`
+- `cd iojs && git checkout develop`
 
 ## Development
 
